@@ -19,12 +19,12 @@
 
         <div class="mb-3">
             <label for="exampleFormControlInput1" class="form-label">Tempo Gasto em Horas:</label>
-            <input type="text" class="form-control" id="exampleFormControlInput1" name="tempo" placeholder="Tempo Gasto em Horas">
+            <input type="text" class="form-control" id="exampleFormControlInput1" name="tempo" placeholder="Tempo Gasto em Horas" required>
         </div>
 
         <div class="mb-3">
             <label for="exampleFormControlInput1" class="form-label">Velocidade Média em km por hora:</label>
-            <input type="text" class="form-control" id="exampleFormControlInput1" name="velocidade" placeholder="Velocidade Média em km por hora">
+            <input type="text" class="form-control" id="exampleFormControlInput1" name="velocidade" placeholder="Velocidade Média em km por hora" required>
         </div>
 
         <br><br>

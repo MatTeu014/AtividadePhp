@@ -19,7 +19,7 @@
 
         <div class="mb-3">
             <label for="exampleFormControlInput1" class="form-label">Número:</label>
-            <input type="text" class="form-control" id="exampleFormControlInput1" name="numero" placeholder="Número">
+            <input type="text" class="form-control" id="exampleFormControlInput1" name="numero" placeholder="Número" required>
         </div>
     
 

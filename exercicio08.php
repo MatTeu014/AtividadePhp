@@ -19,22 +19,22 @@
 
         <div class="mb-3">
             <label for="exampleFormControlInput1" class="form-label">Eleitores:</label>
-            <input type="text" class="form-control" id="exampleFormControlInput1" name="eleitores" placeholder="Eleitores">
+            <input type="text" class="form-control" id="exampleFormControlInput1" name="eleitores" placeholder="Eleitores" required>
         </div>
 
         <div class="mb-3">
             <label for="exampleFormControlInput1" class="form-label">Votos Brancos:</label>
-            <input type="text" class="form-control" id="exampleFormControlInput1" name="brancos" placeholder="Votos Brancos">
+            <input type="text" class="form-control" id="exampleFormControlInput1" name="brancos" placeholder="Votos Brancos" required>
         </div>
 
         <div class="mb-3">
             <label for="exampleFormControlInput1" class="form-label">Votos Nulos:</label>
-            <input type="text" class="form-control" id="exampleFormControlInput1" name="nulos" placeholder="Votos Nulos">
+            <input type="text" class="form-control" id="exampleFormControlInput1" name="nulos" placeholder="Votos Nulos" required>
         </div>
 
         <div class="mb-3">
             <label for="exampleFormControlInput1" class="form-label">Votos Válidos:</label>
-            <input type="text" class="form-control" id="exampleFormControlInput1" name="validos" placeholder="Votos Válidos">
+            <input type="text" class="form-control" id="exampleFormControlInput1" name="validos" placeholder="Votos Válidos" required>
         </div>
     
 

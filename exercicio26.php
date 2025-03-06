@@ -19,17 +19,17 @@
 
         <div class="mb-3">
             <label for="exampleFormControlInput1" class="form-label">Horas Trabalhadas no mês:</label>
-            <input type="text" class="form-control" id="exampleFormControlInput1" name="horas" placeholder="Horas Trabalhadas no mês">
+            <input type="text" class="form-control" id="exampleFormControlInput1" name="horas" placeholder="Horas Trabalhadas no mês" required>
         </div>
 
         <div class="mb-3">
             <label for="exampleFormControlInput1" class="form-label">Valor da Hora Trabalhada:</label>
-            <input type="text" class="form-control" id="exampleFormControlInput1" name="valorHora" placeholder="Valor da Hora Trabalhada">
+            <input type="text" class="form-control" id="exampleFormControlInput1" name="valorHora" placeholder="Valor da Hora Trabalhada" required>
         </div>
 
         <div class="mb-3">
             <label for="exampleFormControlInput1" class="form-label">Percentual de Desconto:</label>
-            <input type="text" class="form-control" id="exampleFormControlInput1" name="desconto" placeholder="Percentual de Desconto">
+            <input type="text" class="form-control" id="exampleFormControlInput1" name="desconto" placeholder="Percentual de Desconto" required>
         </div>
 
 

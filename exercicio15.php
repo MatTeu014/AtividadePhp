@@ -19,22 +19,22 @@
 
         <div class="mb-3">
             <label for="exampleFormControlInput1" class="form-label">Número da conta</label>
-            <input type="text" class="form-control" id="exampleFormControlInput1" name="conta" placeholder="Número da Conta">
+            <input type="text" class="form-control" id="exampleFormControlInput1" name="conta" placeholder="Número da Conta" required>
         </div>
 
         <div class="mb-3">
             <label for="exampleFormControlInput1" class="form-label">Saldo Atual:</label>
-            <input type="text" class="form-control" id="exampleFormControlInput1" name="saldo" placeholder="Saldo Atual">
+            <input type="text" class="form-control" id="exampleFormControlInput1" name="saldo" placeholder="Saldo Atual" required>
         </div>
 
         <div class="mb-3">
             <label for="exampleFormControlInput1" class="form-label">Débito:</label>
-            <input type="text" class="form-control" id="exampleFormControlInput1" name="debito" placeholder="Débito">
+            <input type="text" class="form-control" id="exampleFormControlInput1" name="debito" placeholder="Débito" required>
         </div>
 
         <div class="mb-3">
             <label for="exampleFormControlInput1" class="form-label">Crédito:</label>
-            <input type="text" class="form-control" id="exampleFormControlInput1" name="credito" placeholder="Crédito">
+            <input type="text" class="form-control" id="exampleFormControlInput1" name="credito" placeholder="Crédito" required>
         </div>
 
         <br><br>

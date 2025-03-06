@@ -19,12 +19,12 @@
 
         <div class="mb-3">
             <label for="exampleFormControlInput1" class="form-label">Primeiro Número:</label>
-            <input type="text" class="form-control" id="exampleFormControlInput1" name="primeiroNumero" placeholder="Primeiro Número">
+            <input type="text" class="form-control" id="exampleFormControlInput1" name="primeiroNumero" placeholder="Primeiro Número" required>
         </div>
 
         <div class="mb-3">
             <label for="exampleFormControlInput1" class="form-label">Segundo Número:</label>
-            <input type="text" class="form-control" id="exampleFormControlInput1" name="segundoNumero" placeholder="Segundo Número">
+            <input type="text" class="form-control" id="exampleFormControlInput1" name="segundoNumero" placeholder="Segundo Número" required>
         </div>
     
 

@@ -20,36 +20,36 @@
 
         <div class="mb-3">
             <label for="exampleFormControlInput1" class="form-label">Salário:</label>
-            <input type="text" class="form-control" id="exampleFormControlInput1" name="salario" placeholder="Salário">
+            <input type="text" class="form-control" id="exampleFormControlInput1" name="salario" placeholder="Salário" required>
         </div>
 
         <div class="mb-3">
             <label for="exampleFormControlInput1" class="form-label">Número de Filhos:</label>
-            <input type="text" class="form-control" id="exampleFormControlInput1" name="filhos" placeholder="Número de filhos">
+            <input type="text" class="form-control" id="exampleFormControlInput1" name="filhos" placeholder="Número de filhos" required> 
         </div>
 
         <h4>Segundo Habitante</h4>
 
         <div class="mb-3">
             <label for="exampleFormControlInput1" class="form-label">Salário:</label>
-            <input type="text" class="form-control" id="exampleFormControlInput1" name="salario2" placeholder="Salário">
+            <input type="text" class="form-control" id="exampleFormControlInput1" name="salario2" placeholder="Salário" required>
         </div>
 
         <div class="mb-3">
             <label for="exampleFormControlInput1" class="form-label">Número de Filhos:</label>
-            <input type="text" class="form-control" id="exampleFormControlInput1" name="filhos2" placeholder="Número de filhos">
+            <input type="text" class="form-control" id="exampleFormControlInput1" name="filhos2" placeholder="Número de filhos" required>
         </div>
 
         <h4>Terceiro Habitante</h4>
 
         <div class="mb-3">
             <label for="exampleFormControlInput1" class="form-label">Salário:</label>
-            <input type="text" class="form-control" id="exampleFormControlInput1" name="salario3" placeholder="Salário">
+            <input type="text" class="form-control" id="exampleFormControlInput1" name="salario3" placeholder="Salário" required>
         </div>
 
         <div class="mb-3">
             <label for="exampleFormControlInput1" class="form-label">Número de Filhos:</label>
-            <input type="text" class="form-control" id="exampleFormControlInput1" name="filhos3" placeholder="Número de filhos">
+            <input type="text" class="form-control" id="exampleFormControlInput1" name="filhos3" placeholder="Número de filhos" required>
         </div>
  
 

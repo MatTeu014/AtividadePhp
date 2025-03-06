@@ -18,7 +18,7 @@
 
         <div class="mb-3">
             <label for="exampleFormControlInput1" class="form-label">Raio da Circunferência:</label>
-            <input type="text" class="form-control" id="exampleFormControlInput1" name="raio" placeholder="Raio da Circunferência">
+            <input type="text" class="form-control" id="exampleFormControlInput1" name="raio" placeholder="Raio da Circunferência" required>
         </div>
 
 

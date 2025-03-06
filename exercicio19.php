@@ -19,52 +19,52 @@
 
         <div class="mb-3">
             <label for="exampleFormControlInput1" class="form-label">Primeiro Número:</label>
-            <input type="text" class="form-control" id="exampleFormControlInput1" name="numero1" placeholder="Primeiro Número">
+            <input type="text" class="form-control" id="exampleFormControlInput1" name="numero1" placeholder="Primeiro Número" required>
         </div>
 
         <div class="mb-3">
             <label for="exampleFormControlInput1" class="form-label">Segundo Número:</label>
-            <input type="text" class="form-control" id="exampleFormControlInput1" name="numero2" placeholder="Segundo Número">
+            <input type="text" class="form-control" id="exampleFormControlInput1" name="numero2" placeholder="Segundo Número" required>
         </div>
 
         <div class="mb-3">
             <label for="exampleFormControlInput1" class="form-label">Terceiro Número:</label>
-            <input type="text" class="form-control" id="exampleFormControlInput1" name="numero3" placeholder="Terceiro Número">
+            <input type="text" class="form-control" id="exampleFormControlInput1" name="numero3" placeholder="Terceiro Número" required>
         </div>
 
         <div class="mb-3">
             <label for="exampleFormControlInput1" class="form-label">Quarto Número:</label>
-            <input type="text" class="form-control" id="exampleFormControlInput1" name="numero4" placeholder="Quarto Número">
+            <input type="text" class="form-control" id="exampleFormControlInput1" name="numero4" placeholder="Quarto Número" required>
         </div>
 
         <div class="mb-3">
             <label for="exampleFormControlInput1" class="form-label">Quinto Número:</label>
-            <input type="text" class="form-control" id="exampleFormControlInput1" name="numero5" placeholder="Quinto Número">
+            <input type="text" class="form-control" id="exampleFormControlInput1" name="numero5" placeholder="Quinto Número" required>
         </div>
 
         <div class="mb-3">
             <label for="exampleFormControlInput1" class="form-label">Sexto Número:</label>
-            <input type="text" class="form-control" id="exampleFormControlInput1" name="numero6" placeholder="Sexto Número">
+            <input type="text" class="form-control" id="exampleFormControlInput1" name="numero6" placeholder="Sexto Número" required>
         </div>
 
         <div class="mb-3">
             <label for="exampleFormControlInput1" class="form-label">Sétimo Número:</label>
-            <input type="text" class="form-control" id="exampleFormControlInput1" name="numero7" placeholder="Sétimo Número">
+            <input type="text" class="form-control" id="exampleFormControlInput1" name="numero7" placeholder="Sétimo Número" required>
         </div>
 
         <div class="mb-3">
             <label for="exampleFormControlInput1" class="form-label">Oitavo Número:</label>
-            <input type="text" class="form-control" id="exampleFormControlInput1" name="numero8" placeholder="Oitavo Número">
+            <input type="text" class="form-control" id="exampleFormControlInput1" name="numero8" placeholder="Oitavo Número" required>
         </div>
 
         <div class="mb-3">
             <label for="exampleFormControlInput1" class="form-label">Nono Número:</label>
-            <input type="text" class="form-control" id="exampleFormControlInput1" name="numero9" placeholder="Nono Número">
+            <input type="text" class="form-control" id="exampleFormControlInput1" name="numero9" placeholder="Nono Número" required>
         </div>
 
         <div class="mb-3">
             <label for="exampleFormControlInput1" class="form-label">Décimo Número:</label>
-            <input type="text" class="form-control" id="exampleFormControlInput1" name="numero10" placeholder="Décimo Número">
+            <input type="text" class="form-control" id="exampleFormControlInput1" name="numero10" placeholder="Décimo Número" required>
         </div>
  
 

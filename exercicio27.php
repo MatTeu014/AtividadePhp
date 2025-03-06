@@ -19,7 +19,7 @@
 
         <div class="mb-3">
             <label for="exampleFormControlInput1" class="form-label">Temperatura em Graus Celsius:</label>
-            <input type="text" class="form-control" id="exampleFormControlInput1" name="celsius" placeholder="Temperatura em Graus Celsius">
+            <input type="text" class="form-control" id="exampleFormControlInput1" name="celsius" placeholder="Temperatura em Graus Celsius" required>
         </div>
 
         <br><br>

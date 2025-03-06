@@ -19,7 +19,7 @@
 
         <div class="mb-3">
             <label for="exampleFormControlInput1" class="form-label">Escolha entre as opções a seguir:<br>1-Verde<br>2-Azul<br>3-Amarelo<br>4-Vermelho</label>
-            <input type="text" class="form-control" id="exampleFormControlInput1" name="cor" placeholder="Cor do livro">
+            <input type="text" class="form-control" id="exampleFormControlInput1" name="cor" placeholder="Cor do livro" required>
         </div>
     
 

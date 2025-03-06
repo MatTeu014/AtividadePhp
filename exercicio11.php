@@ -19,17 +19,17 @@
 
         <div class="mb-3">
             <label for="exampleFormControlInput1" class="form-label">Anos:</label>
-            <input type="text" class="form-control" id="exampleFormControlInput1" name="anos" placeholder="Anos">
+            <input type="text" class="form-control" id="exampleFormControlInput1" name="anos" placeholder="Anos" required>
         </div>
 
         <div class="mb-3">
             <label for="exampleFormControlInput1" class="form-label">Meses:</label>
-            <input type="text" class="form-control" id="exampleFormControlInput1" name="meses" placeholder="Meses">
+            <input type="text" class="form-control" id="exampleFormControlInput1" name="meses" placeholder="Meses" required>
         </div>
 
         <div class="mb-3">
             <label for="exampleFormControlInput1" class="form-label">Dias:</label>
-            <input type="text" class="form-control" id="exampleFormControlInput1" name="dias" placeholder="Dias">
+            <input type="text" class="form-control" id="exampleFormControlInput1" name="dias" placeholder="Dias" required>
         </div>
 
         <br><br>

@@ -19,22 +19,22 @@
 
         <div class="mb-3">
             <label for="exampleFormControlInput1" class="form-label">Número de Carros vendidos:</label>
-            <input type="text" class="form-control" id="exampleFormControlInput1" name="carroVendido" placeholder="Número de Carros vendidos:">
+            <input type="text" class="form-control" id="exampleFormControlInput1" name="carroVendido" placeholder="Número de Carros vendidos:" required>
         </div>
 
         <div class="mb-3">
             <label for="exampleFormControlInput1" class="form-label">Valor total de vendas:</label>
-            <input type="text" class="form-control" id="exampleFormControlInput1" name="valorTotal" placeholder="Valor total de vendas:">
+            <input type="text" class="form-control" id="exampleFormControlInput1" name="valorTotal" placeholder="Valor total de vendas:" required>
         </div>
 
         <div class="mb-3">
             <label for="exampleFormControlInput1" class="form-label">Salário fixo:</label>
-            <input type="text" class="form-control" id="exampleFormControlInput1" name="salarioFixo" placeholder="Salário fixo:">
+            <input type="text" class="form-control" id="exampleFormControlInput1" name="salarioFixo" placeholder="Salário fixo:" required>
         </div>
 
         <div class="mb-3">
             <label for="exampleFormControlInput1" class="form-label">Valor que recebe por carro vendido:</label>
-            <input type="text" class="form-control" id="exampleFormControlInput1" name="valorVenda" placeholder="Valor que recebe por carro vendido:">
+            <input type="text" class="form-control" id="exampleFormControlInput1" name="valorVenda" placeholder="Valor que recebe por carro vendido:" required>
         </div>
 
     

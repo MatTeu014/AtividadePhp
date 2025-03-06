@@ -19,12 +19,12 @@
 
         <div class="mb-3">
             <label for="exampleFormControlInput1" class="form-label">Salário Fixo:</label>
-            <input type="text" class="form-control" id="exampleFormControlInput1" name="salarioFixo" placeholder="Salário Fixo">
+            <input type="text" class="form-control" id="exampleFormControlInput1" name="salarioFixo" placeholder="Salário Fixo" required>
         </div>
 
         <div class="mb-3">
             <label for="exampleFormControlInput1" class="form-label">Valor das Vendas:</label>
-            <input type="text" class="form-control" id="exampleFormControlInput1" name="valorVendas" placeholder="Valor das Vendas">
+            <input type="text" class="form-control" id="exampleFormControlInput1" name="valorVendas" placeholder="Valor das Vendas" required>
         </div>
 
         <br><br>

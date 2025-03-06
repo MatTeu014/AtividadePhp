@@ -19,12 +19,12 @@
 
         <div class="mb-3">
             <label for="exampleFormControlInput1" class="form-label">Base:</label>
-            <input type="text" class="form-control" id="exampleFormControlInput1" name="base" placeholder="Base">
+            <input type="text" class="form-control" id="exampleFormControlInput1" name="base" placeholder="Base" required>
         </div>
 
         <div class="mb-3">
             <label for="exampleFormControlInput1" class="form-label">Altura:</label>
-            <input type="text" class="form-control" id="exampleFormControlInput1" name="altura" placeholder="Altura">
+            <input type="text" class="form-control" id="exampleFormControlInput1" name="altura" placeholder="Altura" required>
         </div>
     
 

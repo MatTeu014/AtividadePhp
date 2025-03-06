@@ -19,7 +19,7 @@
 
         <div class="mb-3">
             <label for="exampleFormControlInput1" class="form-label">Número Inteiro:</label>
-            <input type="text" class="form-control" id="exampleFormControlInput1" name="numero" placeholder="Número Inteiro">
+            <input type="text" class="form-control" id="exampleFormControlInput1" name="numero" placeholder="Número Inteiro" required>
         </div>
 
  

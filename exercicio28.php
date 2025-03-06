@@ -19,12 +19,12 @@
 
         <div class="mb-3">
             <label for="exampleFormControlInput1" class="form-label">Raio da lata:</label>
-            <input type="text" class="form-control" id="exampleFormControlInput1" name="raio" placeholder="Raio da lata">
+            <input type="text" class="form-control" id="exampleFormControlInput1" name="raio" placeholder="Raio da lata" required>
         </div>
 
         <div class="mb-3">
             <label for="exampleFormControlInput1" class="form-label">Altura da lata:</label>
-            <input type="text" class="form-control" id="exampleFormControlInput1" name="altura" placeholder="Altura da lata">
+            <input type="text" class="form-control" id="exampleFormControlInput1" name="altura" placeholder="Altura da lata" required>
         </div>
 
         <br><br>

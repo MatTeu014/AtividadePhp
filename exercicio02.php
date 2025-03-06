@@ -16,12 +16,12 @@
     <form class ="form-control" method ="POST">
         <div class="mb-3">
             <label for="exampleFormControlInput1" class="form-label">Primeira Nota:</label>
-            <input type="text" class="form-control" id="exampleFormControlInput1" name="primeiraNota" placeholder="Primeira Nota">
+            <input type="text" class="form-control" id="exampleFormControlInput1" name="primeiraNota" placeholder="Primeira Nota" required>
         </div>
 
         <div class="mb-3">
             <label for="exampleFormControlInput1" class="form-label">Segunda Nota:</label>
-            <input type="text" class="form-control" id="exampleFormControlInput1" name="segundaNota" placeholder="Segunda Nota">
+            <input type="text" class="form-control" id="exampleFormControlInput1" name="segundaNota" placeholder="Segunda Nota" required>
         </div>
     
 

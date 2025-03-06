@@ -19,7 +19,7 @@
 
         <div class="mb-3">
             <label for="exampleFormControlInput1" class="form-label">Maças:</label>
-            <input type="text" class="form-control" id="exampleFormControlInput1" name="macas" placeholder="Maças">
+            <input type="text" class="form-control" id="exampleFormControlInput1" name="macas" placeholder="Maças" required>
         </div>
 
 

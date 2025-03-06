@@ -19,12 +19,12 @@
 
         <div class="mb-3">
             <label for="exampleFormControlInput1" class="form-label">Salário Mensal:</label>
-            <input type="text" class="form-control" id="exampleFormControlInput1" name="salario" placeholder="Salário Mensal">
+            <input type="text" class="form-control" id="exampleFormControlInput1" name="salario" placeholder="Salário Mensal" required>
         </div>
 
         <div class="mb-3">
             <label for="exampleFormControlInput1" class="form-label">Percentual de Reajuste</label>
-            <input type="text" class="form-control" id="exampleFormControlInput1" name="reajuste" placeholder="Percentual de Reajuste">
+            <input type="text" class="form-control" id="exampleFormControlInput1" name="reajuste" placeholder="Percentual de Reajuste" required>
         </div>
     
         <br><br>
